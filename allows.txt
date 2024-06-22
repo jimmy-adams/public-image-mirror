@@ -242,6 +242,7 @@ docker.io/n8nio/**
 docker.io/nacos/**
 docker.io/neuvector/**
 docker.io/nyanmisaka/jellyfin
+docker.io/nvidia/**
 docker.io/oamdev/**
 docker.io/ogarcia/archlinux
 docker.io/oliver006/**
